@@ -57,7 +57,7 @@ try:
         sign = "Capricorn"
     elif (month == 1 and day >= 21) or (month == 2 and day <= 18):
         sign = "Aquarius"
-    elif (month == 2 and day >= 19) or (month == 3 and day <= 20):
+    elif (month == 2 and day >= 18) or (month == 3 and day <= 20):
         sign = "Pisces"
     else:
         sign = "Unknown"
